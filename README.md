@@ -1,4 +1,4 @@
-EasySocial
+# EasySocial
 A full-stack social media web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to connect, share posts, and interact in real-time.
 
 Key Features:
